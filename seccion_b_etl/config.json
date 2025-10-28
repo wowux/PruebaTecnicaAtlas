@@ -1,0 +1,16 @@
+{
+    "source_db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "atlas_prueba",
+        "port": 3306
+    },
+    "target_db": {
+        "host": "localhost",
+        "user": "root",
+        "password": "password",
+        "database": "atlas_etl",
+        "port": 3306
+    }
+}
